@@ -16,6 +16,10 @@ public class ArrayListDemo {
 		Iterator<Object> itr = arr.iterator();
 		while(itr.hasNext()) {
 			System.out.println(itr.next());
+			
+			for(Object o:arr) {
+				System.out.println(o);
+			}
 		}
 			
 	}
