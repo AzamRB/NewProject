@@ -5,7 +5,7 @@ import java.util.List;
 
 public class LinkedListDemo {
 	public static void main(String[] args) {
-	List  list = new java.util.LinkedList();
+	List  list = new LinkedList();
 	list.add(37);
 	list.add(3);
 	list.add(35);
