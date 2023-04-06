@@ -1,5 +1,7 @@
 class Collection{
 
+
+        //this is collection class
 	public static void main(String args[]){
 	// this is collection class
  	
