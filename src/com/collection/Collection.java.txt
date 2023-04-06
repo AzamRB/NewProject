@@ -8,6 +8,8 @@ class Collection{
 	names.add("iron man");
 	names.add("spider man");
 	names.add("super man");
+
+	names.add("thor");
 	names.add("captain america");
 
 	System.out.println(names);
