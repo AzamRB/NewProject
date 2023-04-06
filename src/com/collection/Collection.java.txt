@@ -7,6 +7,7 @@ class Collection{
 	Collection<String> names=new HashSet<>();
 	names.add("iron man");
 	names.add("spider man");
+	names.add("super man");
 	names.add("captain america");
 
 	System.out.println(names);
