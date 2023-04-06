@@ -1,7 +1,8 @@
 class Collection{
 
 
-        //this is collection class
+
+	//this is not a collection class ha ha ha
 	public static void main(String args[]){
 	// this is collection class
  	
