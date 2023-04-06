@@ -1,0 +1,15 @@
+class Collection{
+
+	public static void main(String args[]){
+	// this is collection class
+ 	
+
+	Collection<String> names=new HashSet<>();
+	names.add("iron man");
+	names.add("spider man");
+	names.add("captain america");
+
+	System.out.println(names);
+
+}
+}
