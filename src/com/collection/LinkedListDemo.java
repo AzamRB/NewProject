@@ -9,9 +9,15 @@ public class LinkedListDemo {
 	list.add(37);
 	list.add(3);
 	list.add(35);
+
+	list.add(45);
 	list.add(456);
+
+
 	list.add(3457);
 	System.out.println(list);
+
+
 	 
 	}
 
