@@ -12,6 +12,8 @@ public class ArrayListDemo {
 		arr.add("bilal");
 		arr.add("umar");
 		arr.add(12);
+		arr.add(13);
+		arr.add(14);
 		
 		Iterator<Object> itr = arr.iterator();
 		while(itr.hasNext()) {
