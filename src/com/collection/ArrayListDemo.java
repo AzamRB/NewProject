@@ -21,7 +21,6 @@ public class ArrayListDemo {
 				System.out.println(o);
 			}
 		}
-		//just a test comment
 			
 	}
 
