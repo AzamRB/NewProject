@@ -12,6 +12,7 @@ public class ArrayListDemo {
 		arr.add("bilal");
 		arr.add("umar");
 		arr.add(12);
+		//git feature-1 branch
 		
 		Iterator<Object> itr = arr.iterator();
 		while(itr.hasNext()) {
