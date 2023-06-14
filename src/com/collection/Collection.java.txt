@@ -1,0 +1,20 @@
+class Collection{
+
+
+
+	//this is not a collection class ha ha ha
+	public static void main(String args[]){
+	// this is collection class
+ 	
+
+	Collection<String> names=new HashSet<>();
+	
+	names.add("super man");
+
+	names.add("thor");
+	names.add("captain america");
+
+	System.out.println(names);
+
+}
+}

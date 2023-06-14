@@ -1,0 +1,12 @@
+class HashMap {
+	public static void main(String args[]){
+
+	Map<Integer,String> map = new HashMap<>();
+	map.put(1,"azam");
+	map.put(4,"azam");
+	map.put(2,"arif");
+	map.put(3,"bilal");
+	System.out.println(map);
+}
+
+}
